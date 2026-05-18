@@ -1,5 +1,5 @@
 {
-  "name": "GBCortes7 Barbeira",
+  "name": "Barbearia GBCortes7",
   "description": "Landing page premium para a barbearia GBCortes7, com galeria de cortes, serviços e localização.",
-  "majorCapabilities": []
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

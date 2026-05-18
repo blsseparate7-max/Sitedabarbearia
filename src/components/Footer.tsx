@@ -11,7 +11,7 @@ export default function Footer() {
                 <Scissors className="w-5 h-5 text-brand-black" />
               </div>
               <span className="text-2xl font-bold font-display tracking-tight text-white uppercase">
-                GB<span className="text-brand-yellow">Cortes7</span>
+                Barbearia <span className="text-brand-yellow">GBCortes7</span>
               </span>
             </div>
             <p className="text-white/40 max-w-md leading-relaxed">
@@ -41,7 +41,7 @@ export default function Footer() {
         </div>
 
         <div className="pt-12 border-t border-white/5 flex flex-col md:flex-row items-center justify-between gap-6 text-sm text-white/30 font-medium">
-          <p>© {new Date().getFullYear()} GBCortes7. Todos os direitos reservados.</p>
+          <p>© {new Date().getFullYear()} Barbearia GBCortes7. Todos os direitos reservados.</p>
           <div className="flex gap-8">
             <a href="#" className="hover:text-white transition-colors">Privacidade</a>
             <a href="#" className="hover:text-white transition-colors">Termos</a>

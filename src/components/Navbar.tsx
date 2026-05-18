@@ -34,7 +34,7 @@ export default function Navbar() {
             <Scissors className="w-5 h-5 text-brand-black" />
           </div>
           <span className="text-xl font-bold font-display tracking-tight">
-            GB<span className="text-brand-yellow">Cortes7</span>
+            Barbearia <span className="text-brand-yellow">GBCortes7</span>
           </span>
         </a>
 
