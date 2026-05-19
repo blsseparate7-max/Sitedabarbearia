@@ -13,7 +13,7 @@ const faqs = [
   },
   {
     question: "Tem estacionamento no local?",
-    answer: "Temos convênio com o estacionamento ao lado para nossos clientes, ou vagas rotativas na frente da barbearia."
+    answer: "Temos estacionamento para nossos clientes, vagas rotativas na frente da barbearia."
   },
   {
     question: "Quanto tempo dura um corte?",
